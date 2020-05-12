@@ -14,6 +14,7 @@ logger = logging.getLogger('base')
 '''
 python train.py -c config_GAN.json
 modified from ESRGAN repo
+for filter network 
 '''
 
 class COWCGANFrcnnTrainer:
